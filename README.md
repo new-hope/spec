@@ -9,7 +9,7 @@ CW42 | 17 | Katas, markup, first template for bootstrap 3
 CW43 | ? | 
 CW44 | 7 | strugling with markup 
 CW45 | 0 | 
-CW46 | - | 
+CW46 | 30 | markup and HTML learning 
 CW47 | - | 
 CW48 | - | 
 
