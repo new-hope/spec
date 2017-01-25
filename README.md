@@ -18,7 +18,7 @@ CW51 | - |
 CW52 | - | 
 CW01 | - | 
 CW02 | - |
-CW03 | 30 |
+CW03 | 30 | Finished markup example 2
 CW04 |  |
 CW05 |  |
 CW06 |  |
