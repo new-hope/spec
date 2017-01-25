@@ -14,4 +14,11 @@ CW47 | 25 | first example done! starting new videos
 CW48 | 20 | proceeding with second example
 CW49 | - | 
 CW50 | - | 
-
+CW51 | - | 
+CW52 | - | 
+CW01 | - | 
+CW02 | - |
+CW03 | 30 |
+CW04 |  |
+CW05 |  |
+CW06 |  |
