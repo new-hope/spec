@@ -19,6 +19,6 @@ CW52 | - |
 CW01 | - | 
 CW02 | - |
 CW03 | 30 | Finished markup example 2
-CW04 |  |
+CW04 | 30  | Finished markup example `Blasting Bootstrap`
 CW05 |  |
 CW06 |  |
