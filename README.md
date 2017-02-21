@@ -20,5 +20,9 @@ CW01 | - |
 CW02 | - |
 CW03 | 30 | Finished markup example 2
 CW04 | 30  | Finished markup example `Blasting Bootstrap`
-CW05 |  |
-CW06 |  |
+CW05 | ? | Finished markup example [BuildAppCSSAnimations](https://github.com/new-hope/BuildAppCSSAnimations)
+CW06 | 20 | Struggling with ReactNative tutorial
+CW07 | 40 | Struggling with Angular tutorial. Watching videos
+CW08 |  |
+CW09 |  |
+CW10 |  |
